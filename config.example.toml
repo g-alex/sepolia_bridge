@@ -1,0 +1,16 @@
+# Copy to config.toml and fill secrets locally (never commit secrets).
+
+[api]
+infura_api_key = "YOUR_INFURA_KEY"
+max_retries = 3
+retry_delay = 1
+
+[delay]
+default_delay = 5
+
+[bridge]
+gas_multiplier = 1.2
+
+[logging]
+level = "INFO"
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"

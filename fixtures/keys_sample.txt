@@ -1,0 +1,2 @@
+# One private key per line. Comments and blank lines are ignored.
+# Never commit real keys. Tests generate ephemeral keys via eth_account.
