@@ -1,4 +1,5 @@
 # Sepolia Bridge Tool
+[![CI](https://github.com/g-alex/sepolia_bridge/actions/workflows/ci.yml/badge.svg)](https://github.com/g-alex/sepolia_bridge/actions/workflows/ci.yml)
 
 CLI for bridging ETH from Ethereum Sepolia to Arbitrum Sepolia and Base Sepolia.
 
